@@ -1,9 +1,10 @@
-The code provided is supposed replace all the dots . in the specified String str with dashes -
+Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 
-But it's not working properly.
+The output should be two capital letters with a dot seperating them.
 
-Task
-Fix the bug so we can all go home early.
+It should look like this:
 
-Notes
-String str will never be null.
+Sam Harris => S.H
+
+Patrick Feeney => P.F
+
